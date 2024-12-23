@@ -1,16 +1,14 @@
-## Hi there 👋
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=Garyo99&color=orange" />
+</p>
 
-<!--
-**Garyo99/Garyo99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=Hello!%20This%20is%20Garyo99&reversal=false&descAlign=50&textBg=false&fontColor=222&fontAlign=50&animation=twinkling" />
+</div>
 
-Here are some ideas to get you started:
+<h2>$ whoami </h2>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Student in the department of Electrical Engineering and Bioscience at Waseda University
+  - Focusing on Bioinformatics
+
+More detail about me :point_right: [Garyo99.dev](https://www.garyo99.dev/)
